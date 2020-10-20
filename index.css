@@ -1,0 +1,12 @@
+.navbar{
+    
+}
+.search-box input[type="submit"] {
+    background: url(img/search.png)no-repeat;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: text-top;
+    border: none;
+    outline: none;
+}
